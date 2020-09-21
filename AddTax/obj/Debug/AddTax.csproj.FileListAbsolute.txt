@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Programs\AddTax\AddTax\obj\Debug\AddTax.csprojAssemblyReference.cache
+C:\Users\user\Documents\Programs\AddTax\AddTax\obj\Debug\AddTax.FormAddTax.resources
+C:\Users\user\Documents\Programs\AddTax\AddTax\obj\Debug\AddTax.Properties.Resources.resources
+C:\Users\user\Documents\Programs\AddTax\AddTax\obj\Debug\AddTax.csproj.GenerateResource.cache
+C:\Users\user\Documents\Programs\AddTax\AddTax\obj\Debug\AddTax.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programs\AddTax\AddTax\bin\Debug\AddTax.exe.config
+C:\Users\user\Documents\Programs\AddTax\AddTax\bin\Debug\AddTax.exe
+C:\Users\user\Documents\Programs\AddTax\AddTax\bin\Debug\AddTax.pdb
+C:\Users\user\Documents\Programs\AddTax\AddTax\obj\Debug\AddTax.exe
+C:\Users\user\Documents\Programs\AddTax\AddTax\obj\Debug\AddTax.pdb
