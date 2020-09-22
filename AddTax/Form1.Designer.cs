@@ -44,7 +44,7 @@
             this.label1.Size = new System.Drawing.Size(29, 12);
             this.label1.TabIndex = 1;
             this.label1.Text = "金額";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.label1.Click += new System.EventHandler(this.Label1_Click);
             // 
             // label2
             // 
@@ -90,7 +90,7 @@
             this.buttonAddTax.TabIndex = 1;
             this.buttonAddTax.Text = "消費税追加";
             this.buttonAddTax.UseVisualStyleBackColor = true;
-            this.buttonAddTax.Click += new System.EventHandler(this.buttonAddTax_Click);
+            this.buttonAddTax.Click += new System.EventHandler(this.ButtonAddTax_Click);
             // 
             // FormAddTax
             // 

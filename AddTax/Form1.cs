@@ -1,29 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AddTax
-{
-    public partial class FormAddTax : Form
-    {
-        public FormAddTax()
-        {
+namespace AddTax {
+    public partial class FormAddTax : Form {
+        public FormAddTax () {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
+        private void Label1_Click (object sender, EventArgs e) {
 
         }
 
-        private void buttonAddTax_Click(object sender, EventArgs e)
-        {
+        private void ButtonAddTax_Click (object sender, EventArgs e) {
             // 変数および定数の宣言
             int money;
             double addTax;
